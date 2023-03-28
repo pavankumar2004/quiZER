@@ -1,4 +1,4 @@
-// code by webdevtrick (https://webdevtrick.com)
+
 function Quiz(questions) {
     this.score = 0;
     this.questions = questions;
